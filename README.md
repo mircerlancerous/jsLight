@@ -1,3 +1,5 @@
+This project has been moved to [a new location](https://github.com/offthebricks/VC).
+
 # jsLight
 Ultra light-weight JavaScript Model View Controller (MVC) framework.
 
